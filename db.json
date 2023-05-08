@@ -9,7 +9,8 @@
       "gpu_type": "AD102",
       "cooling_rating" : 3,
       "overclocking": 3,
-      "temperature": 3
+      "temperature": 3,
+      "price": 30018000
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "gpu_type": "Navi 31",
       "cooling_rating" : 5,
       "overclocking": 2,
-      "temperature": 5
+      "temperature": 5,
+      "price": 18763000
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "gpu_type": "GA102",
       "cooling_rating": 5,
       "overclocking": 3,
-      "temperature": 5
+      "temperature": 5,
+      "price": 12350000
     }
   ],
   "profile": {
