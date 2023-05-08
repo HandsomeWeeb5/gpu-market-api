@@ -4,7 +4,34 @@
       "id": 1,
       "name": "Gigabyte RTX 4090 Gaming OC",
       "image": "https://tpucdn.com/review/gigabyte-geforce-rtx-4090-gaming-oc/images/title.jpg",
-      "description": "Gigabyte's Gaming OC comes with a very calm design language, the main colors are black on the front and gray on the backplate. Under the hood we found a powerful 20+4 VRM design. Unlike some other custom designs today, Gigabyte is giving you the whole 600 W maximum power limit adjustment range, the default out of the box power limit is still the same 450 W as on the Founders Edition. Thermal performance of the cooler is good, definitely better than the Founders Edition."
+      "vram_capacity": 24,
+      "vram_type": "GDDR6X 384-bit",
+      "gpu_type": "AD102",
+      "cooling_rating" : 3,
+      "overclocking": 3,
+      "temperature": 3
+    },
+    {
+      "id": 2,
+      "name": "Asrock Radeon RX 7900 XTX Taichi",
+      "image": "https://tpucdn.com/review/asrock-radeon-rx-7900-xtx-taichi/images/title.jpg",
+      "vram_capacity": 24,
+      "vram_type": "GDDR6 384-bit",
+      "gpu_type": "Navi 31",
+      "cooling_rating" : 5,
+      "overclocking": 2,
+      "temperature": 5
+    },
+    {
+      "id": 3,
+      "name": "ASUS RTX 3080 Noctua",
+      "image": "https://tpucdn.com/review/asus-geforce-rtx-3080-noctua-oc/images/title.jpg",
+      "vram_capacity": 10,
+      "vram_type": "GDDR6X 320-bit",
+      "gpu_type": "GA102",
+      "cooling_rating": 5,
+      "overclocking": 3,
+      "temperature": 5
     }
   ],
   "profile": {
