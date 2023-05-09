@@ -35,6 +35,18 @@
       "overclocking": 3,
       "temperature": 5,
       "summary": "The unique selling point of the ASUS RTX 3080 Noctua is its thermal solution based around the high-quality fans from the Austrian company. Even the first glance shows that this is a Noctua card—the signature tan and brown color scheme is hard to miss. In terms of noise levels, the ASUS card is a revelation at only 23.4 dBA; the card is so quiet it's almost at the limits of my noise-testing capability. I'm testing in a quiet neighborhood with all other computers shut off and no running fans or AC, and the card is still almost inaudible. Basically, you have to stand next to the system on an open bench and concentrate on the card to somewhat discern its noise. As soon as you start moving, your clothes will make enough noise to overpower what little sound the card puts out—absolutely incredible! Often, low noise means compromising on temperatures, which is not the case with the RTX 3080 Noctua to further sweeten the deal. We measured temperatures of only 67 °C under full load, which is better than most RTX 3080 cards—I've tested 10 models to date. No doubt ASUS found a great balance between noise levels and temperatures, which of course is much easier to achieve if you have so much cooling performance available. In my opinion, there's no reason to use the dual BIOS feature to activate the 'Performance' BIOS. At 30 dBA, its noise levels are still good, but you only reduce temperatures from 67°C to 58°C in return, which doesn't gain you anything other than a +15 MHz boost bin from NVIDIA's boost clock algorithm due to slightly lower temperature."
+    },
+    {
+      "id": 4,
+      "name": "ASUS RX 6800 STRIX OC ",
+      "image": "https://tpucdn.com/review/asus-radeon-rx-6800-strix-oc/images/title.jpg",
+      "vram_capacity": 16,
+      "vram_type": "GDDR6 256-bit",
+      "gpu_type": "Navi 21",
+      "cooling_rating": 5,
+      "overclocking": 3,
+      "temperature": 4,
+      "summary": "ASUS did an outstanding job with the design and engineering for their new STRIX cooler. We've seen this exact same thermal solution on the ASUS STRIX RTX 3090 before. The RTX 3090 is a 350 W+ design, so I guess you can imagine how the cooler fared on the 230 W RX 6800 STRIX. We measured temperatures of only 53°C, which are mighty impressive. With 33 dBA, noise levels are slightly better than the AMD reference design, but slightly higher than what I expected, though I can understand that ASUS sought to impress with ultra-low temperatures. Should you prefer a more balanced approach, the 'Quiet BIOS' can be activated easily because of a dual BIOS switch. Now the card runs at 67°C—still extremely cool—but only 31 dBA, which is almost whisper-quiet and very impressive for a card in this performance class. I recommend you use the quiet BIOS at all times because there's effectively no difference between 53°C and 67°C, but you'll notice lower noise levels all the time when gaming. Just like on the AMD reference design, idle fan stop is included, which provides the perfect noise-free experience during desktop work, internet browsing, media playback, and light gaming."
     }
   ],
   "profile": {
