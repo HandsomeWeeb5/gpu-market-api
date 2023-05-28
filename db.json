@@ -2,51 +2,113 @@
   "items": [
     {
       "id": 1,
-      "name": "Gigabyte RTX 4090 Gaming OC",
+      "name": "Gigabyte RTX 4090 Gaming OC 24GB GDDR6X Review",
       "image": "https://tpucdn.com/review/gigabyte-geforce-rtx-4090-gaming-oc/images/title.jpg",
-      "vram_capacity": 24,
-      "vram_type": "GDDR6X 384-bit",
-      "gpu_type": "AD102",
-      "cooling_rating" : 3,
-      "overclocking": 3,
-      "temperature": 3,
-      "summary": "Gigabyte's Gaming OC comes with a very calm design language, the main colors are black on the front and gray on the backplate. Under the hood we found a powerful 20+4 VRM design. Unlike some other custom designs today, Gigabyte is giving you the whole 600 W maximum power limit adjustment range, the default out of the box power limit is still the same 450 W as on the Founders Edition. Thermal performance of the cooler is good, definitely better than the Founders Edition. Unfortunately it seems that Gigabyte favored lower temperatures over fan noise with their default BIOS fan settings. While temperatures are excellent with 60°C on the GPU and 67°C on the memory, fan noise is rather high at 37 dBA. The good thing is that they include a dual BIOS feature with a 'quiet' BIOS as second option. In this mode the card runs at only 32.6 dBA, which is considerably quieter than the NVIDIA FE, with only a small increase in temperatures. What I like here is that both BIOSes have meaningful differences, so making a choice is a real option"
+      "category": "graphic_card",
+      "rating_star" : 5,
+      "author" : "Brahmantyo",
+      "date_created" : "28/01/2023",
+      "date_updated" : "04/02/2023",
+      "summary": "Gigabyte Gaming OC hadir dengan bahasa desain yang sangat kalem, warna utamanya hitam di bagian depan dan abu-abu di pelat belakang. Di bawah tenda kami menemukan desain VRM 20+4 yang kuat. Tidak seperti beberapa desain khusus lainnya saat ini, Gigabyte memberi Anda seluruh rentang penyesuaian batas daya maksimum 600 W, batas daya default di luar kotak masih sama dengan 450 W seperti pada Founders Edition. Performa termal pendinginnya bagus, pasti lebih baik dari Founders Edition. Sayangnya tampaknya Gigabyte lebih menyukai suhu yang lebih rendah daripada kebisingan kipas dengan pengaturan kipas BIOS default mereka. Meskipun suhu sangat baik dengan 60°C pada GPU dan 67°C pada memori, kebisingan kipas agak tinggi pada 37 dBA. Hal baiknya adalah mereka menyertakan fitur BIOS ganda dengan BIOS 'tenang' sebagai opsi kedua. Dalam mode ini, kartu hanya berjalan pada 32,6 dBA, yang jauh lebih senyap daripada NVIDIA FE, dengan hanya sedikit peningkatan suhu. Yang saya suka di sini adalah bahwa kedua BIOS memiliki perbedaan yang berarti, jadi membuat pilihan adalah pilihan yang nyata."
     },
     {
       "id": 2,
-      "name": "Asrock Radeon RX 7900 XTX Taichi",
+      "name": "Asrock Radeon RX 7900 XTX Taichi 24GB GDDR6 Review",
       "image": "https://tpucdn.com/review/asrock-radeon-rx-7900-xtx-taichi/images/title.jpg",
-      "vram_capacity": 24,
-      "vram_type": "GDDR6 384-bit",
-      "gpu_type": "Navi 31",
-      "cooling_rating" : 5,
-      "overclocking": 2,
-      "temperature": 5,
-      "summary": "ASRock's Taichi name is legendary, we've seen so many wonderful motherboards and graphics cards with that branding, so the RX 7900 XTX Taichi has big shoes to fill. The triple-fan, triple-slot thermal solution does a great job keeping the card cool. Gaming temperatures are below 60°C, which is an impressive achievement, especially considering the performance offered. Noise levels with the default BIOS are 'good,' only 32 dBA is considerably lower than the AMD reference card, but other custom designs are still quieter. ASRock's solution for that is the dual BIOS, which lets you activate a 'Quiet' mode BIOS. Now the noise levels are stunning—the card is whisper quiet, the quietest RX 7900 XTX that we've tested. Actually, with only 27.6 dBA it's among the quietest graphics cards that I've tested in a long time—and we're talking about a high-end GPU here that can achieve 4K60 easily. While nearly all other quiet BIOS designs that I know of lower the fan speed, while allowing higher temperatures at the same time, ASRock's approach is quite different. They've set their card to run at lower clock and voltage, which lowers the heat output considerably, because the card now operates closer to its maximum efficiency point. Lower heat output means the fans can run slower to achieve the same temperature. That's exactly what ASRock did: the regular and the quiet mode BIOS both have the GPU running at 59°C, but since the quiet BIOS has such reduced heat output, the fan speed can be lower."
+      "category": "graphic_card",
+      "rating_star" : 4,
+      "author": "Brahmantyo",
+      "date_created": "07/02/2023",
+      "date_updated": "14/02/2023",
+      "summary": "Nama ASRock Taichi sangat legendaris, kami telah melihat begitu banyak motherboard dan kartu grafis yang luar biasa dengan merek tersebut, jadi RX 7900 XTX Taichi memiliki sepatu besar untuk diisi. Solusi termal triple-fan, triple-slot melakukan pekerjaan yang baik untuk menjaga kartu tetap dingin. Suhu permainan di bawah 60°C, yang merupakan pencapaian yang mengesankan, terutama mengingat kinerja yang ditawarkan. Tingkat kebisingan dengan BIOS default 'bagus', hanya 32 dBA yang jauh lebih rendah daripada kartu referensi AMD, tetapi desain khusus lainnya masih lebih senyap. Solusi ASRock untuk itu adalah BIOS ganda, yang memungkinkan Anda mengaktifkan BIOS mode 'Senyap'. Sekarang tingkat kebisingannya menakjubkan-kartunya senyap, RX 7900 XTX paling senyap yang pernah kami uji. Sebenarnya, dengan hanya 27,6 dBA, ini adalah salah satu kartu grafis paling tenang yang pernah saya uji dalam waktu yang lama—dan kita berbicara tentang GPU kelas atas di sini yang dapat mencapai 4K60 dengan mudah. Sementara hampir semua desain BIOS senyap lainnya yang saya ketahui menurunkan kecepatan kipas, sekaligus memungkinkan suhu yang lebih tinggi pada saat yang sama, pendekatan ASRock sangat berbeda. Mereka telah mengatur kartu mereka untuk berjalan pada clock dan voltase yang lebih rendah, yang sangat menurunkan keluaran panas, karena kartu sekarang beroperasi mendekati titik efisiensi maksimumnya. Keluaran panas yang lebih rendah berarti kipas dapat bekerja lebih lambat untuk mencapai suhu yang sama. Itulah yang dilakukan ASRock: BIOS mode reguler dan mode senyap keduanya memiliki GPU yang berjalan pada 59°."
     },
     {
       "id": 3,
-      "name": "ASUS RTX 3080 Noctua Edition",
+      "name": "ASUS RTX 3080 Noctua Edition 10GB GDDR6X Review - Mesin Pendingin yang Sunyi",
       "image": "https://tpucdn.com/review/asus-geforce-rtx-3080-noctua-oc/images/title.jpg",
-      "vram_capacity": 10,
-      "vram_type": "GDDR6X 320-bit",
-      "gpu_type": "GA102",
-      "cooling_rating": 5,
-      "overclocking": 3,
-      "temperature": 5,
-      "summary": "The unique selling point of the ASUS RTX 3080 Noctua is its thermal solution based around the high-quality fans from the Austrian company. Even the first glance shows that this is a Noctua card—the signature tan and brown color scheme is hard to miss. In terms of noise levels, the ASUS card is a revelation at only 23.4 dBA; the card is so quiet it's almost at the limits of my noise-testing capability. I'm testing in a quiet neighborhood with all other computers shut off and no running fans or AC, and the card is still almost inaudible. Basically, you have to stand next to the system on an open bench and concentrate on the card to somewhat discern its noise. As soon as you start moving, your clothes will make enough noise to overpower what little sound the card puts out—absolutely incredible! Often, low noise means compromising on temperatures, which is not the case with the RTX 3080 Noctua to further sweeten the deal. We measured temperatures of only 67 °C under full load, which is better than most RTX 3080 cards—I've tested 10 models to date. No doubt ASUS found a great balance between noise levels and temperatures, which of course is much easier to achieve if you have so much cooling performance available. In my opinion, there's no reason to use the dual BIOS feature to activate the 'Performance' BIOS. At 30 dBA, its noise levels are still good, but you only reduce temperatures from 67°C to 58°C in return, which doesn't gain you anything other than a +15 MHz boost bin from NVIDIA's boost clock algorithm due to slightly lower temperature."
+      "category": "graphic_card",
+      "rating_star" : 5,
+      "author": "Brahmantyo",
+      "date_created": "15/02/2023",
+      "date_updated": "20/02/2023",
+      "summary": "Nilai jual unik ASUS RTX 3080 Noctua adalah solusi termalnya yang didasarkan pada kipas berkualitas tinggi dari perusahaan Austria. Bahkan pandangan pertama menunjukkan bahwa ini adalah kartu Noctua-skema warna cokelat dan cokelat yang khas sulit untuk dilewatkan. Dalam hal tingkat kebisingan, kartu ASUS hanya memiliki 23,4 dBA; kartu ini sangat sunyi sehingga hampir mencapai batas kemampuan pengujian kebisingan saya. Saya menguji di lingkungan yang tenang dengan semua komputer lain dimatikan dan tidak ada kipas atau AC yang menyala, dan kartunya masih hampir tidak terdengar. Pada dasarnya, Anda harus berdiri di samping sistem di bangku terbuka dan berkonsentrasi pada kartu untuk membedakan kebisingannya. Segera setelah Anda mulai bergerak, pakaian Anda akan mengeluarkan suara yang cukup untuk mengalahkan sedikit suara yang dikeluarkan kartu—benar-benar luar biasa! Seringkali, kebisingan rendah berarti mengurangi suhu, yang tidak terjadi pada RTX 3080 Noctua untuk lebih mempermanis kesepakatan. Kami mengukur suhu hanya 67 °C di bawah beban penuh, yang lebih baik daripada kebanyakan kartu RTX 3080—saya telah menguji 10 model hingga saat ini. Tidak diragukan lagi, ASUS menemukan keseimbangan yang baik antara tingkat kebisingan dan suhu, yang tentu saja jauh lebih mudah dicapai jika Anda memiliki begitu banyak kinerja pendinginan yang tersedia. Menurut saya, tidak ada alasan untuk menggunakan fitur dual BIOS untuk mengaktifkan BIOS 'Performance'. Pada 30 dBA, tingkat kebisingannya masih bagus, tetapi Anda hanya mengurangi suhu dari 67°C menjadi 58°."
     },
     {
       "id": 4,
-      "name": "ASUS RX 6800 STRIX OC ",
+      "name": "ASUS RX 6800 STRIX OC 16GB GDDR6 Review",
       "image": "https://tpucdn.com/review/asus-radeon-rx-6800-strix-oc/images/title.jpg",
-      "vram_capacity": 16,
-      "vram_type": "GDDR6 256-bit",
-      "gpu_type": "Navi 21",
-      "cooling_rating": 5,
-      "overclocking": 3,
-      "temperature": 4,
+      "category": "graphic_card",
+      "rating_star" : 4,
+      "author": "Brahmantyo",
+      "date_created": "27/02/2023",
+      "date_updated": "05/03/2023",
       "summary": "ASUS did an outstanding job with the design and engineering for their new STRIX cooler. We've seen this exact same thermal solution on the ASUS STRIX RTX 3090 before. The RTX 3090 is a 350 W+ design, so I guess you can imagine how the cooler fared on the 230 W RX 6800 STRIX. We measured temperatures of only 53°C, which are mighty impressive. With 33 dBA, noise levels are slightly better than the AMD reference design, but slightly higher than what I expected, though I can understand that ASUS sought to impress with ultra-low temperatures. Should you prefer a more balanced approach, the 'Quiet BIOS' can be activated easily because of a dual BIOS switch. Now the card runs at 67°C—still extremely cool—but only 31 dBA, which is almost whisper-quiet and very impressive for a card in this performance class. I recommend you use the quiet BIOS at all times because there's effectively no difference between 53°C and 67°C, but you'll notice lower noise levels all the time when gaming. Just like on the AMD reference design, idle fan stop is included, which provides the perfect noise-free experience during desktop work, internet browsing, media playback, and light gaming."
+    },
+    {
+     "id": 5,
+      "name": "ASUS RX 6800 STRIX OC 16GB GDDR6 Review",
+      "image": "https://tpucdn.com/review/asus-radeon-rx-6800-strix-oc/images/title.jpg",
+      "category": "graphic_card"
+      "rating_star" : 4,
+      "author": "Brahmantyo",
+      "date_created": "03/03/2023",
+      "date_updated": "12/03/2023",
+      "summary": "ASUS did an outstanding job with the design and engineering for their new STRIX cooler. We've seen this exact same thermal solution on the ASUS STRIX RTX 3090 before. The RTX 3090 is a 350 W+ design, so I guess you can imagine how the cooler fared on the 230 W RX 6800 STRIX. We measured temperatures of only 53°C, which are mighty impressive. With 33 dBA, noise levels are slightly better than the AMD reference design, but slightly higher than what I expected, though I can understand that ASUS sought to impress with ultra-low temperatures. Should you prefer a more balanced approach, the 'Quiet BIOS' can be activated easily because of a dual BIOS switch. Now the card runs at 67°C—still extremely cool—but only 31 dBA, which is almost whisper-quiet and very impressive for a card in this performance class. I recommend you use the quiet BIOS at all times because there's effectively no difference between 53°C and 67°C, but you'll notice lower noise levels all the time when gaming. Just like on the AMD reference design, idle fan stop is included, which provides the perfect noise-free experience during desktop work, internet browsing, media playback, and light gaming." 
+    },
+    {
+      "id": 6,
+      "name": "AMD Ryzen 7 7800X3D Review - CPU Gaming Terbaik di segala Value",
+      "image": "https://tpucdn.com/review/amd-ryzen-7-7800x3d/images/title.jpg",
+      "category": "processor"
+      "rating_star" : 5,
+      "author": "Tomi Shelbi",
+      "date_created": "27/03/2023",
+      "date_updated": "29/03/2023",
+      "summary": "Ryzen 7 7800X3D dalam ulasan hari ini adalah prosesor 8-core / 16-thread, yang membuatnya sangat mirip dengan Ryzen 7 7700X dalam hal spesifikasi. Hanya untuk mengonfirmasi, ini berjalan dalam konfigurasi inti 8+0, bukan 4+4, karena itu akan membatalkan nilai jual unik AMD (performa gaming tinggi berkat desain single-CCD). Untuk TDP, AMD telah memutuskan untuk menyetelnya ke 120-Watt, yang cocok dengan Ryzen 9 7950X3D, dan sedikit lebih tinggi dari 105 W yang kita lihat pada 7700X. Frekuensi clock telah turun sedikit, AMD sekarang menjamin clock dasar 4,20 GHz, dengan boost hingga 5,00 GHz. 7800X3D digabungkan ke frekuensi maksimum 5050 MHz, yang tidak dapat Anda lewati, bahkan dengan PBO. Jam-jam ini jauh lebih rendah daripada 7700X (4,50 / 5,40 GHz), 7950X bahkan mencapai 5,70 GHz. Menurut AMD, kecepatan clock yang berkurang merupakan efek dari tegangan maksimum yang lebih rendah yang dapat ditahan oleh cache dies (mereka berjalan pada tegangan yang sama dengan inti CPU). Tegangan yang lebih rendah berarti frekuensi yang lebih tinggi tidak dapat dicapai, karena memerlukan tegangan yang lebih tinggi daripada yang dapat diambil oleh die Cache 3DV. Untuk alasan yang sama, AMD menurunkan suhu pengoperasian maksimum dari 95°C menjadi 89°." 
+    },
+    {
+      "id": 7,
+      "name": "Intel Core i7-13700K Review - Gila, CPU Terkuat di Gaming dan Konten!",
+      "image": "https://tpucdn.com/review/intel-core-i7-13700k/images/title.jpg",
+      "category": "processor"
+      "rating_star" : 5,
+      "author": "Tomi Shelbi",
+      "date_created": "09/04/2023",
+      "date_updated": "11/04/2023",
+      "summary": "Apa yang membuat Core i7-13700K menarik dari perspektif teknologi adalah ia hadir dengan konfigurasi inti yang sama dengan flagship Core i9-12900K generasi terakhir, tetapi dengan jam yang lebih tinggi dan semua peningkatan arsitektur Raptor Lake. Jumlah utas 24, cocok dengan AMD Ryzen 9 5900X dan 7900X-setidaknya secara matematis - di bawah tenda, AMD menggunakan 12 inti \"penuh\", sedangkan Intel menggunakan campuran Inti P dan E seperti yang disebutkan sebelumnya. Dirata-ratakan di atas tolok ukur aplikasi kami, CPU Intel yang baru dapat dengan mudah mengungguli Zen 3 Ryzen 9 5900X, dan bahkan 5950X juga. Terhadap Ryzen 9 7900X, ini juga lebih cepat, tetapi perbedaannya kecil, rata-rata hanya 2,3%, yang masih merupakan hasil yang sangat bagus, mengingat strategi inti hybrid Intel. Ryzen 9 7950X hanya 7,5% lebih cepat, namun lebih mahal $250. Dalam duel 12900K vs 13700K, 13700K adalah pemenang yang jelas, dengan keunggulan kinerja 8,5%—tidak kehilangan satu benchmark pun dan beberapa kemenangan sangat besar. Jika kita melihat lebih dekat pada aplikasi individual, kita menemukan 13700K terkadang mengalahkan 7950X, terutama dalam beban kerja berulir rendah, di mana kinerja utas tunggal Raptor Lake yang lebih tinggi dapat menunjukkan manfaatnya. Sebagian besar aplikasi saat ini tidak akan memuat semua inti secara maksimal, itulah sebabnya kami mencoba menggabungkan banyak skenario berbeda dalam rangkaian pengujian kami.." 
+    },
+    {
+      "id": 8,
+      "name": "Intel Core i3-12100F Review - CPU Ramah Gamer budget!",
+      "image": "https://tpucdn.com/review/intel-core-i3-12100f/images/title.jpg",
+      "category": "processor"
+      "rating_star" : 5,
+      "author": "Tomi Shelbi",
+      "date_created": "23/04/2023",
+      "date_updated": "26/04/2023",
+      "summary": "Yang penting untuk disoroti adalah meskipun ini \"hanya quad-core\", Anda tidak dapat membandingkannya dengan quad-core dari beberapa tahun yang lalu. Inti Golden Cove Intel yang baru jauh lebih cepat dari jam ke jam karena IPC yang jauh lebih baik. Anda dapat dengan mudah melihat ini dalam grup pengujian produktivitas kami, yang berulir rendah, di mana kami sering menemukan 12100F mengalahkan prosesor dengan posisi yang jauh lebih tinggi. Untuk mesin yang melihat penggunaan ringan, pekerjaan desktop, produktivitas kantor, dan penjelajahan Internet, Core i3-12100F adalah pilihan yang sangat baik. Sebenarnya, jika Anda tidak membutuhkan banyak tenaga kuda GPU, Anda mungkin ingin mempertimbangkan Core i3-12100 (tanpa F), yang merupakan prosesor yang sama seperti dalam ulasan ini, tetapi dengan grafik terintegrasi, seharga $30 lebih.  Performa gaming Core i3-12100F juga sangat bagus, terutama dibandingkan dengan CPU kelas atas yang populer dari generasi sebelumnya. Misalnya, pada resolusi Full HD 1080p, Core i3-12100F mengalahkan Core i5-9400F, i5-10400F, dan i5-11400F. Ini juga mengalahkan Core i5-10600K dan Ryzen 5 3600X-dua CPU yang secara luas diakui sebagai \"direkomendasikan untuk para gamer.\" Penawaran Zen 3 entry-level AMD, Ryzen 5 5600X, hanya 7% lebih cepat pada 1080p. CPU tercepat dalam grup pengujian kami hingga 20% lebih cepat, tetapi tentu saja juga lebih mahal. Saat Anda meningkatkan resolusi permainan, hambatan semakin bergeser dari CPU dan ke GPU. Pada 4K, sebagian besar CPU sangat mirip dalam tingkat FPS yang mereka tawarkan-di sini, sebenarnya lebih baik membeli CPU yang lebih murah untuk menghemat uang yang dapat dihabiskan untuk GPU yang lebih cepat. Perbedaannya sangat bervariasi antar game, terutama judul lama yang menggunakan DirectX 11 API lebih diuntungkan dari CPU yang lebih cepat, sedangkan game DX12 lebih sering dibatasi GPU." 
+    },
+    {
+      "id": 9,
+      "name": "Montech X3 Mesh - PC Case Termurah dengan Airflow Super",
+      "image": "https://tpucdn.com/review/montech-x3-mesh/images/title.jpg",
+      "category": "pc_case"
+      "rating_star" : 5,
+      "author": "Selena",
+      "date_created": "02/05/2023",
+      "date_updated": "02/05/2023",
+      "summary": "Montech X3 Mesh masuk pada titik harga kelas menengah yang solid sambil menghadirkan beberapa elemen unik. Selain tata letak fungsional tanpa embel-embel yang menghasilkan tampilan yang bersih dan rapi, sasis jelas berarti menonjol dengan menyertakan enam kipas. Selain itu, Montech berusaha keras dan membuat tiga varian 140 mm di bagian depan sasis. Mereka bahkan menyertakan iluminasi yang dipasang di hub, yang bagus untuk dilihat, dan jika Anda tidak menyukai pengaturan multi-warna atau seperti pelangi itu, Anda dapat mematikannya dengan menekan sebuah tombol. Elemen lain di bagian luar, seperti desain jaring depan dan jendela panel samping berengsel yang bersih dengan tab tarik kain, menjadikan Jaring X3 lebih menarik untuk uang Anda. Semuanya sebagian besar menyatu dengan baik bahkan di bagian dalam, di situlah Montech perlu memperhatikan setiap sen yang dihabiskan untuk manufaktur. Yang mengatakan, ada beberapa kekurangan. Pertama dan terpenting, semua kipas bekerja pada 12 V sepanjang waktu, jadi Anda harus mempersiapkan diri dengan pemikiran untuk tidak memiliki sistem senyap saat idle. Keuntungan dari pengaturan ini adalah bahwa selama sesi permainan, Mesh X3 berada tepat di tengah untuk kebisingan sambil memberikan hasil pendinginan yang sangat baik." 
+    },
+    {
+      "id": 10,
+      "name": "Hyte Y40 Review",
+      "image": "https://tpucdn.com/review/hyte-y40/images/title.jpg",
+      "category": "pc_case"
+      "rating_star" : 3,
+      "author": "Selena",
+      "date_created": "18/05/2023",
+      "date_updated": "20/05/2023",
+      "summary": "HYTE Y40 berhasil menawarkan banyak fitur yang menyenangkan dan berguna. Dari banyaknya kait pengikat ritsleting - baik secara internal maupun eksternal, hingga filter debu dalam bentuk merek HYTE dan potongan bersih, panel kaca bening, serta bukaan di tempat yang tepat, semuanya menyatu dengan sangat baik. Itu diterjemahkan menjadi rasa kegembiraan yang hanya dapat dicapai oleh sedikit kasus atau merek yang benar-benar mainstream. Itu dapat membantu Anda melihat melewati fakta bahwa termal dalam casing bukanlah yang terbaik menggunakan pengaturan di luar kotak, karena beberapa pilihan desain tersebut. Atau, fakta bahwa HYTE telah menghilangkan grommet, yang menghilangkan sedikit kemungkinan kebersihan secara keseluruhan. Itu benar-benar menjadi jelas dengan kemampuan penyimpanan Y40 yang sangat terfokus & terbatas. HYTE tidak mengharapkanmu membangun gudang penyimpanan. Sebagai gantinya, Anda dimaksudkan untuk membangun sistem game modern dengan drive NVMe yang menggunakan sistem penyimpanan tambahan 2,5\" atau satu 3,5\" untuk menampung perpustakaan game Anda. Dan sementara itu mungkin merupakan pemecah kesepakatan bagi sebagian orang, sebagian besar gamer mainstream masih akan dilayani dengan baik dengan apa yang ditawarkan HYTE Y40. Jadi, Anda harus benar-benar melihat melewati batasan ini dan membayangkan keindahan ini berdiri di atas meja Anda-bahkan jika Anda benar-benar harus memasukkan kipas ekstra yang tenang ke dalamnya untuk membantu pendinginan. Dengan harga $150, ini tidak dimaksudkan untuk bersaing dengan menara OEM seharga $99, four ARGB fan. Ini dimaksudkan untuk menjadi pembungkus yang indah untuk perangkat keras Anda dan itu sangat berharga bagi banyak dari kita di luar sana. Dengan demikian, meskipun tidak dimaksudkan untuk mendorong amplop inovatif sebanyak HYTE Y60, Y40 dapat direkomendasikan tanpa berpikir dua kali." 
     }
   ],
   "profile": {
