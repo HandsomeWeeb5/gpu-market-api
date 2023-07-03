@@ -49,7 +49,7 @@
       "name": "ASUS RX 6800 STRIX OC 16GB GDDR6 Review",
       "image": "https://tpucdn.com/review/asus-radeon-rx-6800-strix-oc/images/title.jpg",
       "category": "graphic_card"
-      "rating_star" : 4,
+      "rating_star": 4,
       "author": "Brahmantyo",
       "date_created": "03/03/2023",
       "date_updated": "12/03/2023",
@@ -65,50 +65,6 @@
       "date_created": "27/03/2023",
       "date_updated": "29/03/2023",
       "summary": "Ryzen 7 7800X3D dalam ulasan hari ini adalah prosesor 8-core / 16-thread, yang membuatnya sangat mirip dengan Ryzen 7 7700X dalam hal spesifikasi. Hanya untuk mengonfirmasi, ini berjalan dalam konfigurasi inti 8+0, bukan 4+4, karena itu akan membatalkan nilai jual unik AMD (performa gaming tinggi berkat desain single-CCD). Untuk TDP, AMD telah memutuskan untuk menyetelnya ke 120-Watt, yang cocok dengan Ryzen 9 7950X3D, dan sedikit lebih tinggi dari 105 W yang kita lihat pada 7700X. Frekuensi clock telah turun sedikit, AMD sekarang menjamin clock dasar 4,20 GHz, dengan boost hingga 5,00 GHz. 7800X3D digabungkan ke frekuensi maksimum 5050 MHz, yang tidak dapat Anda lewati, bahkan dengan PBO. Jam-jam ini jauh lebih rendah daripada 7700X (4,50 / 5,40 GHz), 7950X bahkan mencapai 5,70 GHz. Menurut AMD, kecepatan clock yang berkurang merupakan efek dari tegangan maksimum yang lebih rendah yang dapat ditahan oleh cache dies (mereka berjalan pada tegangan yang sama dengan inti CPU). Tegangan yang lebih rendah berarti frekuensi yang lebih tinggi tidak dapat dicapai, karena memerlukan tegangan yang lebih tinggi daripada yang dapat diambil oleh die Cache 3DV. Untuk alasan yang sama, AMD menurunkan suhu pengoperasian maksimum dari 95°C menjadi 89°." 
-    },
-    {
-      "id": 7,
-      "name": "Intel Core i7-13700K Review - Gila, CPU Terkuat di Gaming dan Konten!",
-      "image": "https://tpucdn.com/review/intel-core-i7-13700k/images/title.jpg",
-      "category": "processor"
-      "rating_star" : 5,
-      "author": "Tomi Shelbi",
-      "date_created": "09/04/2023",
-      "date_updated": "11/04/2023",
-      "summary": "Apa yang membuat Core i7-13700K menarik dari perspektif teknologi adalah ia hadir dengan konfigurasi inti yang sama dengan flagship Core i9-12900K generasi terakhir, tetapi dengan jam yang lebih tinggi dan semua peningkatan arsitektur Raptor Lake. Jumlah utas 24, cocok dengan AMD Ryzen 9 5900X dan 7900X-setidaknya secara matematis - di bawah tenda, AMD menggunakan 12 inti \"penuh\", sedangkan Intel menggunakan campuran Inti P dan E seperti yang disebutkan sebelumnya. Dirata-ratakan di atas tolok ukur aplikasi kami, CPU Intel yang baru dapat dengan mudah mengungguli Zen 3 Ryzen 9 5900X, dan bahkan 5950X juga. Terhadap Ryzen 9 7900X, ini juga lebih cepat, tetapi perbedaannya kecil, rata-rata hanya 2,3%, yang masih merupakan hasil yang sangat bagus, mengingat strategi inti hybrid Intel. Ryzen 9 7950X hanya 7,5% lebih cepat, namun lebih mahal $250. Dalam duel 12900K vs 13700K, 13700K adalah pemenang yang jelas, dengan keunggulan kinerja 8,5%—tidak kehilangan satu benchmark pun dan beberapa kemenangan sangat besar. Jika kita melihat lebih dekat pada aplikasi individual, kita menemukan 13700K terkadang mengalahkan 7950X, terutama dalam beban kerja berulir rendah, di mana kinerja utas tunggal Raptor Lake yang lebih tinggi dapat menunjukkan manfaatnya. Sebagian besar aplikasi saat ini tidak akan memuat semua inti secara maksimal, itulah sebabnya kami mencoba menggabungkan banyak skenario berbeda dalam rangkaian pengujian kami.." 
-    },
-    {
-      "id": 8,
-      "name": "Intel Core i3-12100F Review - CPU Ramah Gamer budget!",
-      "image": "https://tpucdn.com/review/intel-core-i3-12100f/images/title.jpg",
-      "category": "processor"
-      "rating_star" : 5,
-      "author": "Tomi Shelbi",
-      "date_created": "23/04/2023",
-      "date_updated": "26/04/2023",
-      "summary": "Yang penting untuk disoroti adalah meskipun ini \"hanya quad-core\", Anda tidak dapat membandingkannya dengan quad-core dari beberapa tahun yang lalu. Inti Golden Cove Intel yang baru jauh lebih cepat dari jam ke jam karena IPC yang jauh lebih baik. Anda dapat dengan mudah melihat ini dalam grup pengujian produktivitas kami, yang berulir rendah, di mana kami sering menemukan 12100F mengalahkan prosesor dengan posisi yang jauh lebih tinggi. Untuk mesin yang melihat penggunaan ringan, pekerjaan desktop, produktivitas kantor, dan penjelajahan Internet, Core i3-12100F adalah pilihan yang sangat baik. Sebenarnya, jika Anda tidak membutuhkan banyak tenaga kuda GPU, Anda mungkin ingin mempertimbangkan Core i3-12100 (tanpa F), yang merupakan prosesor yang sama seperti dalam ulasan ini, tetapi dengan grafik terintegrasi, seharga $30 lebih.  Performa gaming Core i3-12100F juga sangat bagus, terutama dibandingkan dengan CPU kelas atas yang populer dari generasi sebelumnya. Misalnya, pada resolusi Full HD 1080p, Core i3-12100F mengalahkan Core i5-9400F, i5-10400F, dan i5-11400F. Ini juga mengalahkan Core i5-10600K dan Ryzen 5 3600X-dua CPU yang secara luas diakui sebagai \"direkomendasikan untuk para gamer.\" Penawaran Zen 3 entry-level AMD, Ryzen 5 5600X, hanya 7% lebih cepat pada 1080p. CPU tercepat dalam grup pengujian kami hingga 20% lebih cepat, tetapi tentu saja juga lebih mahal. Saat Anda meningkatkan resolusi permainan, hambatan semakin bergeser dari CPU dan ke GPU. Pada 4K, sebagian besar CPU sangat mirip dalam tingkat FPS yang mereka tawarkan-di sini, sebenarnya lebih baik membeli CPU yang lebih murah untuk menghemat uang yang dapat dihabiskan untuk GPU yang lebih cepat. Perbedaannya sangat bervariasi antar game, terutama judul lama yang menggunakan DirectX 11 API lebih diuntungkan dari CPU yang lebih cepat, sedangkan game DX12 lebih sering dibatasi GPU." 
-    },
-    {
-      "id": 9,
-      "name": "Montech X3 Mesh - PC Case Termurah dengan Airflow Super",
-      "image": "https://tpucdn.com/review/montech-x3-mesh/images/title.jpg",
-      "category": "pc_case"
-      "rating_star" : 5,
-      "author": "Selena",
-      "date_created": "02/05/2023",
-      "date_updated": "02/05/2023",
-      "summary": "Montech X3 Mesh masuk pada titik harga kelas menengah yang solid sambil menghadirkan beberapa elemen unik. Selain tata letak fungsional tanpa embel-embel yang menghasilkan tampilan yang bersih dan rapi, sasis jelas berarti menonjol dengan menyertakan enam kipas. Selain itu, Montech berusaha keras dan membuat tiga varian 140 mm di bagian depan sasis. Mereka bahkan menyertakan iluminasi yang dipasang di hub, yang bagus untuk dilihat, dan jika Anda tidak menyukai pengaturan multi-warna atau seperti pelangi itu, Anda dapat mematikannya dengan menekan sebuah tombol. Elemen lain di bagian luar, seperti desain jaring depan dan jendela panel samping berengsel yang bersih dengan tab tarik kain, menjadikan Jaring X3 lebih menarik untuk uang Anda. Semuanya sebagian besar menyatu dengan baik bahkan di bagian dalam, di situlah Montech perlu memperhatikan setiap sen yang dihabiskan untuk manufaktur. Yang mengatakan, ada beberapa kekurangan. Pertama dan terpenting, semua kipas bekerja pada 12 V sepanjang waktu, jadi Anda harus mempersiapkan diri dengan pemikiran untuk tidak memiliki sistem senyap saat idle. Keuntungan dari pengaturan ini adalah bahwa selama sesi permainan, Mesh X3 berada tepat di tengah untuk kebisingan sambil memberikan hasil pendinginan yang sangat baik." 
-    },
-    {
-      "id": 10,
-      "name": "Hyte Y40 Review",
-      "image": "https://tpucdn.com/review/hyte-y40/images/title.jpg",
-      "category": "pc_case"
-      "rating_star" : 3,
-      "author": "Selena",
-      "date_created": "18/05/2023",
-      "date_updated": "20/05/2023",
-      "summary": "HYTE Y40 berhasil menawarkan banyak fitur yang menyenangkan dan berguna. Dari banyaknya kait pengikat ritsleting - baik secara internal maupun eksternal, hingga filter debu dalam bentuk merek HYTE dan potongan bersih, panel kaca bening, serta bukaan di tempat yang tepat, semuanya menyatu dengan sangat baik. Itu diterjemahkan menjadi rasa kegembiraan yang hanya dapat dicapai oleh sedikit kasus atau merek yang benar-benar mainstream. Itu dapat membantu Anda melihat melewati fakta bahwa termal dalam casing bukanlah yang terbaik menggunakan pengaturan di luar kotak, karena beberapa pilihan desain tersebut. Atau, fakta bahwa HYTE telah menghilangkan grommet, yang menghilangkan sedikit kemungkinan kebersihan secara keseluruhan. Itu benar-benar menjadi jelas dengan kemampuan penyimpanan Y40 yang sangat terfokus & terbatas. HYTE tidak mengharapkanmu membangun gudang penyimpanan. Sebagai gantinya, Anda dimaksudkan untuk membangun sistem game modern dengan drive NVMe yang menggunakan sistem penyimpanan tambahan 2,5\" atau satu 3,5\" untuk menampung perpustakaan game Anda. Dan sementara itu mungkin merupakan pemecah kesepakatan bagi sebagian orang, sebagian besar gamer mainstream masih akan dilayani dengan baik dengan apa yang ditawarkan HYTE Y40. Jadi, Anda harus benar-benar melihat melewati batasan ini dan membayangkan keindahan ini berdiri di atas meja Anda-bahkan jika Anda benar-benar harus memasukkan kipas ekstra yang tenang ke dalamnya untuk membantu pendinginan. Dengan harga $150, ini tidak dimaksudkan untuk bersaing dengan menara OEM seharga $99, four ARGB fan. Ini dimaksudkan untuk menjadi pembungkus yang indah untuk perangkat keras Anda dan itu sangat berharga bagi banyak dari kita di luar sana. Dengan demikian, meskipun tidak dimaksudkan untuk mendorong amplop inovatif sebanyak HYTE Y60, Y40 dapat direkomendasikan tanpa berpikir dua kali." 
     }
   ],
   "profile": {
